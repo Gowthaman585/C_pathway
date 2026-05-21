@@ -8,6 +8,7 @@
 
 <!-- 📎 Attach your 3-layer architecture diagram image here -->
 ![image: memory layout](mem_layout.png)
+![Block diagram](mem_layout1.png)
 
 ---
 
